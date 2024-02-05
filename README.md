@@ -6,6 +6,8 @@ Digital clock
 
 Digital clock And Dust measuring
 
+เครื่องเขย่าสาร
+
 robot arm
 
 Emotive Plant Pot
